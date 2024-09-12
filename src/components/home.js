@@ -5,7 +5,7 @@ import HackPic from '../assests/hackPic.jpg';
 function Home() {
   return (
     <section id="home" >
-        <div className='w-full bg-[#eef0f3]  bg-white py-16 px-4 '> 
+        <div className='w-full bg-[#eef0f3] py-16 px-4 '> 
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 mb-4'>
             <img className='hidden lg:flex justify-center items-center w-[500px] h-[400px]  my-4  border-2 border-[#28426b]' src={image1} alt=''/>
                 <div className='flex flex-col justify-center '>
