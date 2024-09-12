@@ -5,7 +5,7 @@ import HackPic from '../assests/hackPic.jpg';
 function Home() {
   return (
     <section id="home" >
-        <div className='w-full bg-[#eef0f3] min-h-screen bg-white py-16 px-4 '> 
+        <div className='w-full bg-[#eef0f3]  bg-white py-16 px-4 '> 
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 mb-4'>
             <img className='hidden lg:flex justify-center items-center w-[500px] h-[400px]  my-4  border-2 border-[#28426b]' src={image1} alt=''/>
                 <div className='flex flex-col justify-center '>
@@ -31,7 +31,7 @@ function Home() {
                 <div className='flex flex-col justify-center '>
                     <p className='text-[#28426b] font-bold font-cutive mb-4 text-sm '>Achievements</p>
                     <h1 className='md:text-4xl sm:text-3xl text-2xl font-cutive mb-2 font-bold py-2 text-[#3e68bb]'>Hackathon: Edu-Venture</h1>
-                    <p className='font-cutive text-sm mb-1 text-[#28426b]'>
+                    <p className='font-cutive text-sm mb-1 text-[#28426b] '>
                      Second Place Hackathon Winner! 
                    
 
