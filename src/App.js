@@ -9,9 +9,9 @@ import Contact from './components/contact'
 function App() {
   return (
 
-    <div>
+    <div className='bg-[#eef0f3] min-h-screen'>
       <div className="Title flex justify-center items-center">
-          <h1 className='text-center text-3xl pt-8 font-cutive text-black'>
+          <h1 className='text-center text-3xl pt-8 font-cutive font-semibold text-[#3e68bb]'>
           Shahd Mustafa
           </h1>
           

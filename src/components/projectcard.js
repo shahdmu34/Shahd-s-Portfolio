@@ -5,10 +5,10 @@ import Projectdata from './projectData';
 function projectcard() {
     return (
         <section id="project" >
-           <div name="work" className=" w-full bg-white py-16 px-4">
+           <div name="work" className=" w-full bg-[#eef0f3] py-5 px-4">
                  <div className='max-w-[1240px] mx-auto'>
                     <div className="pb-4">
-                    <p className="text-4xl font-bold font-cutive  text-blacks">
+                    <p className="text-4xl font-bold font-cutive  text-[#3e68bb]">
                         Projects
                     </p>
                   

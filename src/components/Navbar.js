@@ -8,7 +8,7 @@ function NavBar() {
   const handleClick = () => setNav(!nav);
 
     return (
-      <div className=" w-full  flex justify-between items-center px-4  text-black z-20 max-w-[1240px] mx-auto">
+      <div className=" w-full  flex justify-between items-center px-4  text-[#28426b]z-20 max-w-[1240px] mx-auto">
         <ul className=" md:flex text-xl font-cutive  space-x-8 hover:scale-110 transition-transform duration-300 ">
         <li>
           <Link to="home" smooth={true} duration={500}>
